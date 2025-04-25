@@ -1,0 +1,11 @@
+company,error,website,matched_variant,estimated_revenue,url,source,domain,name,website_url,linkedin_url,founded_year,annual_revenue_printed,industry
+Netflix,Could not find company website,,,,,,,,,,,,
+Microsoft,,https://www.microsoft.com/en-us,Microsoft,$<$5M,https://growjo.com/company/Microsoft,apollo,microsoft.com,Microsoft,http://www.microsoft.com,http://www.linkedin.com/company/microsoft,1975.0,198B,information technology & services
+Snapchat,,https://www.snapchat.com,Snapchat,$<$5M,https://growjo.com/company/Snapchat,apollo,snapchat.com,Snap Inc.,http://www.snap.com,http://www.linkedin.com/company/snap-inc-co,2011.0,5.4B,information technology & services
+Shopify,,https://www.shopify.com,Shopify,$<$5M,https://growjo.com/company/Shopify,apollo,shopify.com,Shopify,http://www.shopify.com,http://www.linkedin.com/company/shopify,2006.0,8.9B,information technology & services
+Airbnb,,https://www.airbnb.com,Airbnb,$<$5M,https://growjo.com/company/Airbnb,apollo,airbnb.com,Airbnb,http://www.airbnb.com,http://www.linkedin.com/company/airbnb,2007.0,9.9B,information technology & services
+OpenAI,,https://openai.com,OpenAI,$<$5M,https://growjo.com/company/OpenAI,apollo,openai.com,OpenAI,http://www.openai.com,http://www.linkedin.com/company/openai,2015.0,3.4B,research
+Snapchat,,https://www.snapchat.com,Snapchat,$<$5M,https://growjo.com/company/Snapchat,apollo,snapchat.com,Snap Inc.,http://www.snap.com,http://www.linkedin.com/company/snap-inc-co,2011.0,5.4B,information technology & services
+Slack,,https://slack.com,Slack,$<$5M,https://growjo.com/company/Slack,apollo,slack.com,Slack,http://www.slack.com,http://www.linkedin.com/company/tiny-spec-inc,2009.0,902.6M,information technology & services
+Zoom,,https://www.zoom.com,Zoom,$<$5M,https://growjo.com/company/Zoom,apollo,zoom.com,Zoom,http://www.zoom.com,http://www.linkedin.com/company/zoom,2013.0,4.5B,information technology & services
+Zoom,,https://www.zoom.com,Zoom,$<$5M,https://growjo.com/company/Zoom,apollo,zoom.com,Zoom,http://www.zoom.com,http://www.linkedin.com/company/zoom,2013.0,4.5B,information technology & services

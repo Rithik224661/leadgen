@@ -22,7 +22,10 @@ LOGIN_PASSWORD = os.getenv("GROWJO_PASSWORD")
 
 # For debugging
 print(f"Email: {LOGIN_EMAIL}")
-print(f"Password: {LOGIN_PASSWORD[:3]}***** (first 3 chars shown for verification)")
+if LOGIN_PASSWORD:
+    print(f"Password: {LOGIN_PASSWORD[:3]}***** (first 3 chars shown for verification)")
+else:
+    print("Warning: GROWJO_PASSWORD not set in environment variables")
 
 class GrowjoScraper:
     """A class to scrape decision makers' information from Growjo.com."""
